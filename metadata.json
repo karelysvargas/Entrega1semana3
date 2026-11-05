@@ -1,0 +1,6 @@
+{
+  "name": "Recetario de Desayunos Saludables",
+  "description": "Aplicación móvil universitaria de nutrición y bienestar con autenticación segura, galería de recetas, reproductor de video, vista web y catálogo de controles Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+{
+  "short_name": "Recetario",
+  "name": "Recetario de Desayunos Saludables",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuD6_nisy_8-rxRQxjJ9epIVYafnAowZodDk6GFYEz5D5iZrJUbNKAkP0BitArVGiAFPuP5C4d6TLbN9r3lyyINjqNO_nSzHOQbeVYjaZrCQslxfZTp4Gf8wLHOirnIoFKgRHt4pAUXTYTB9NxqFfYzqtc4u5ajALjSEVePT3PLppEUSpCEl6wHS_Mr1Ql0u7O3u7ZbE3u4VltZ4n6nNHRZU8Z_4YsG-ujS9epcsQulS8ghtjoN8LkmaIQ",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuD6_nisy_8-rxRQxjJ9epIVYafnAowZodDk6GFYEz5D5iZrJUbNKAkP0BitArVGiAFPuP5C4d6TLbN9r3lyyINjqNO_nSzHOQbeVYjaZrCQslxfZTp4Gf8wLHOirnIoFKgRHt4pAUXTYTB9NxqFfYzqtc4u5ajALjSEVePT3PLppEUSpCEl6wHS_Mr1Ql0u7O3u7ZbE3u4VltZ4n6nNHRZU8Z_4YsG-ujS9epcsQulS8ghtjoN8LkmaIQ",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fbf9f9",
+  "theme_color": "#006e1c",
+  "display": "standalone",
+  "orientation": "portrait"
+}
